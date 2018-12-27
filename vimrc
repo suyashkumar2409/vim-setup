@@ -72,7 +72,6 @@ noremap <leader>0 :tablast<cr>
 
 "************ Augment search **************************
 set hlsearch
-nnoremap <silent> <Esc> :nohlsearch<Bar>:echo<CR>
 
 "*********** Re-Open Previously Opened File **********
 nnoremap <Leader><Leader> :e#<CR>
